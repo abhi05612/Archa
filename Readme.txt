@@ -1,3 +1,3 @@
 Thanks for downloading this template!
 
-Template Name: Arsha
+Template Name: School Website Solutions

@@ -1,5 +1,5 @@
 /**
-* Template Name: Arsha
+* Template Name: School Website Solutions
 * Updated: Feb 22 2025 with Bootstrap v5.3.3
 */
 
