@@ -1,6 +1,9 @@
 /**
-* Template Name: School Website Solutions
+* Template Name: Arsha
+* Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
 * Updated: Feb 22 2025 with Bootstrap v5.3.3
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
 */
 
 /*--------------------------------------------------------------
@@ -3571,75 +3574,4 @@ section,
   padding-left: 5px;
   color: color-mix(in srgb, var(--default-color), transparent 60%);
   font-size: 14px;
-}
-
-/* ===== PREMIUM UI UPGRADE ===== */
-
-:root {
-  --primary: #2563eb;
-  --secondary: #1e3a8a;
-  --bg-light: #f8fafc;
-}
-
-/* Section spacing */
-section {
-  padding: 100px 0 !important;
-}
-
-/* Headings */
-h1, h2, h3 {
-  font-weight: 700;
-}
-
-h2 {
-  margin-bottom: 20px;
-}
-
-/* Paragraph spacing */
-p {
-  color: #555;
-  line-height: 1.7;
-}
-
-/* Buttons */
-.btn-get-started,
-.btn-main {
-  background: var(--primary);
-  border-radius: 30px;
-  padding: 12px 30px;
-  font-weight: 600;
-  transition: 0.3s;
-}
-
-.btn-get-started:hover {
-  background: var(--secondary);
-}
-
-/* Cards */
-.icon-box {
-  padding: 30px;
-  border-radius: 15px;
-  transition: 0.3s;
-  box-shadow: 0 5px 20px rgba(0,0,0,0.05);
-}
-
-.icon-box:hover {
-  transform: translateY(-8px);
-}
-
-/* Pricing cards */
-.pricing .box {
-  border-radius: 15px;
-  padding: 40px;
-}
-
-/* Contact form */
-input, textarea {
-  border-radius: 10px !important;
-  padding: 12px !important;
-}
-
-/* Section titles spacing */
-.section-title {
-  margin-bottom: 50px;
 }
