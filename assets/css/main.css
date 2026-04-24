@@ -3598,4 +3598,10 @@ section,
   .hero .col-lg-6 {
     text-align: center;
   }
+
+  .btn-getstarted {
+    font-size: 12px !important;
+    padding: 8px 16px !important;
+    white-space: nowrap;
+  }
 }
