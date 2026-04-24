@@ -3583,9 +3583,19 @@ section,
 
   .hero h1 {
     font-size: 24px !important;
+    text-align: center;
   }
 
   .hero h2 {
     font-size: 16px !important;
+    text-align: center;
+  }
+
+  .hero .d-flex {
+    justify-content: center;
+  }
+
+  .hero .col-lg-6 {
+    text-align: center;
   }
 }
